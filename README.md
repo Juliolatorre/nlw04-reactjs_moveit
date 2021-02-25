@@ -45,8 +45,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 <p align="center">Desenvolvido com 💜 por Júlio Latorre</p>
 
-<p align="center">
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Juliolatorre)
-</p>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/júlio-cesar-de-latorre-33b49b1b5/) 
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Juliolatorre)[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/júlio-cesar-de-latorre-33b49b1b5/) 
