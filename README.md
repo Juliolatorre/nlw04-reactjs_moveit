@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
     <img alt="Move.it" title="Move.it" src=".github/moveit.svg" />
-</h1>
+</h1> -->
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,9 +11,9 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img alt="Moveit" src=".github/icon.svg" width="120px">
-</p>
+</p> -->
 
 ## 🚀 Tecnologias
 
