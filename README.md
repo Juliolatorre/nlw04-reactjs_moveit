@@ -11,9 +11,9 @@
 
 <br>
 
-<!-- <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
-</p> -->
+<p align="center">
+  <img alt="Moveit" src="https://i.imgur.com/GPyTi4W.png" width="300px">
+</p>
 
 ## 🚀 Tecnologias
 
@@ -44,3 +44,6 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ---
 
 <p align="center">Desenvolvido com 💜 por Júlio Latorre</p>
+
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Juliolatorre)
